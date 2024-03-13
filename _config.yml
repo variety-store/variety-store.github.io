@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+locale                   : "ko-KR"
+title                    : "모든 상점"
+title_separator          : "|"
+subtitle                 : "상품 번호를 검색하면 원하시는 상품을 찾을수 있습니다."
+name                     : ""
+description              : "상품 번호를 입력 하기!!!"
 url                      : "https://variety-store.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
