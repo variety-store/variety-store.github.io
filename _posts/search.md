@@ -1,5 +1,5 @@
 ---
-title: earch
+title: "Search"
 layout: search
 permalink: /search/
 ---
