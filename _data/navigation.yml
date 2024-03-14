@@ -1,14 +1,13 @@
 # main links
 main:
-  - title: Search
+  - title: "Search"
     url: /search/
-  -
 
 
 docs:
   -title: "< 상품 번호 기억하기!!!  >"
     children:
-    -title: Search
+    -title: "Search"
     url: /search/
 
 
