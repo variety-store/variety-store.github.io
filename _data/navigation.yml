@@ -1,8 +1,20 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
+  - title: "검색"
+    url: /search/
+  -
+
+
+docs:
+  -title: "< 번호 검색 >"
+    children:
+    -title: "검색"
+    url: /search/
+
+
+
+
+
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
