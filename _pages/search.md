@@ -1,5 +1,5 @@
 ---
-title: &quot; Search &quot;
+title: "Search"
 layout: search
 permalink: /search/
 author_profile: ture

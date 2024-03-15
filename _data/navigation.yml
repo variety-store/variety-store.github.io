@@ -5,7 +5,7 @@ main:
 
 
 docs:
-  -title: "< 상품 번호 기억하기!!!  >"
+  -title: "<상품번호기억하기>"
     children:
     -title: "Search"
     url: /search/
